@@ -55,3 +55,5 @@ AdminLTE 1.x can be easily upgraded to 2.x using [this guide](https://adminlte.i
 Donations are **greatly appreciated!**
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif "AdminLTE Presentation")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=629XCUSXBHCBC "Donate")
+
+![Alt](https://repobeats.axiom.co/api/embed/597baf1454ae36d8b1159bb81a8bd089fde836cd.svg "Repobeats analytics image")
